@@ -8,6 +8,7 @@ Features
 
 - Works with the latest jQuery library version
 - Displays instant search results as you type
+-fast
 
 
 Installation Requirements
